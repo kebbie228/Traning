@@ -33,7 +33,7 @@ public class Test3 {
         System.out.println(sum(al3));
     }
 
-}
+
 
     static void showListinfo(List<?> list) {
         System.out.println("List include next elements: " + list);
