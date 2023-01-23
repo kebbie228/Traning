@@ -47,6 +47,6 @@ class Employee extends Thread {
                 lock.unlock();
             }
         }
-else System.out.println(name+" doesnt want to stay in queue and go away");
+else System.out.println(name+" doesnt want to stay in queue and go away!");
     }
 }
